@@ -61,7 +61,7 @@ h1 {
     stroke-width: 8;
 }
 
-.circle-progress {
+.circle-progress {  
     fill: none;
     stroke-width: 8;
     stroke-linecap: round;
